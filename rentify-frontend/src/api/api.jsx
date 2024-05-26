@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://rentifyapplicationbackend.onrender.com';
 
 export const loginUser = (userData) => axios.post(`${API_URL}/api/auth/login`, userData);
 export const registerUser = (userData) => axios.post(`${API_URL}/api/auth/register`, userData);
