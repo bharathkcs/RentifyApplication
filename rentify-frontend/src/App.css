@@ -1,0 +1,18 @@
+.buyer-dashboard {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  color: #333;
+  background: #f4f4f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.buyer-dashboard h1 {
+  color: #4A90E2;
+}
+
+.buyer-dashboard p {
+  font-size: 16px;
+  line-height: 1.6;
+}
